@@ -1,0 +1,11 @@
+﻿  pch.cpp
+  WMIClient.cpp
+d:\projects\researchcode\altfs\lib\wmiclient\wmiclient\wmiclient.cpp(63): warning C4273: 'CreateClass': inconsistent dll linkage
+  d:\projects\researchcode\altfs\lib\wmiclient\wmiclient\wmiclient.h(10): note: see previous definition of 'CreateClass'
+d:\projects\researchcode\altfs\lib\wmiclient\wmiclient\wmiclient.cpp(93): warning C4273: 'CreateProperty': inconsistent dll linkage
+  d:\projects\researchcode\altfs\lib\wmiclient\wmiclient\wmiclient.h(13): note: see previous definition of 'CreateProperty'
+d:\projects\researchcode\altfs\lib\wmiclient\wmiclient\wmiclient.cpp(119): warning C4273: 'DeleteProperty': inconsistent dll linkage
+  d:\projects\researchcode\altfs\lib\wmiclient\wmiclient\wmiclient.h(16): note: see previous definition of 'DeleteProperty'
+  LINK : D:\projects\researchcode\AltFS\lib\WMIClient\x64\Debug\WMIClient.dll not found or not built by the last incremental link; performing full link
+     Creating library D:\projects\researchcode\AltFS\lib\WMIClient\x64\Debug\WMIClient.lib and object D:\projects\researchcode\AltFS\lib\WMIClient\x64\Debug\WMIClient.exp
+  WMIClient.vcxproj -> D:\projects\researchcode\AltFS\lib\WMIClient\x64\Debug\WMIClient.dll

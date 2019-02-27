@@ -1,0 +1,7 @@
+﻿  WMIClient.cpp
+c:\users\safebreach\source\repos\wmiclient\wmiclient\wmiclient.cpp(16): warning C4273: 'CreateClass': inconsistent dll linkage
+  c:\users\safebreach\source\repos\wmiclient\wmiclient\wmiclient.h(7): note: see previous definition of 'CreateClass'
+c:\users\safebreach\source\repos\wmiclient\wmiclient\wmiclient.cpp(41): warning C4273: 'CreateProperty': inconsistent dll linkage
+  c:\users\safebreach\source\repos\wmiclient\wmiclient\wmiclient.h(10): note: see previous definition of 'CreateProperty'
+     Creating library c:\users\safebreach\source\repos\WMIClient\Debug\WMIClient.lib and object c:\users\safebreach\source\repos\WMIClient\Debug\WMIClient.exp
+  WMIClient.vcxproj -> c:\users\safebreach\source\repos\WMIClient\Debug\WMIClient.dll

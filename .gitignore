@@ -1,0 +1,10 @@
+*.pyc
+*.ipynb
+.pytest_cache
+.ipynb_checkpoints
+.eggs
+.idea
+build
+dist
+AltFS.egg-info
+docs/TODO.txt
