@@ -375,7 +375,7 @@ print f
 
 ## Authors
 
-**Dor Azouri** (@bemikre)
+**Dor Azouri** ([@bemikre](https://twitter.com/bemikre))
 
 ## License
 
